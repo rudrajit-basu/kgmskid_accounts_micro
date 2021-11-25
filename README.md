@@ -1,0 +1,2 @@
+
+# kgmskid accounts Deta micro

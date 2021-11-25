@@ -1,0 +1,13 @@
+{
+  "name": "kgmskid_accounts_micro",
+  "version": "1.0.0",
+  "description": "manage kgms student accounts",
+  "main": "index.js",
+  "author": "Rudrajit Basu",
+  "license": "MIT",
+  "dependencies": {
+    "deta": "^1.0.0",
+    "fastify": "^3.20.2",
+    "uniqid": "^5.4.0"
+  }
+}
