@@ -334,7 +334,7 @@ app.post('/insertStudent', postInsertStudentOption, handleInsertStudent);
 /* api test call */
 
 app.get('/test', async (request, reply) => {
-	reply.code(200).send({message: 'success'});
+	reply.code(200).send({message: 'test successful !'});
 });
 
 /* api test call end */
